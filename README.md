@@ -1,5 +1,5 @@
 # EventVisionTracker
-#CVBallEntryExitTracker
+CVBallEntryExitTracker
 The script identifies balls of different colors and logs their entry and exit times in different quadrants of the video frame.
 # Prerequisites
 Python 3.x
